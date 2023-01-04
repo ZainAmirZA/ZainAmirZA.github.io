@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ZainAmirZA/ZainAmirZA.github.io/static/css/main.37998e4c.css",
-    "main.js": "/ZainAmirZA/ZainAmirZA.github.io/static/js/main.284046ca.js",
-    "static/media/soup.gif": "/ZainAmirZA/ZainAmirZA.github.io/static/media/soup.52ee2867ea3066083a01.gif",
-    "static/media/tcg.png": "/ZainAmirZA/ZainAmirZA.github.io/static/media/tcg.dc12b2cb177a6e20a882.png",
-    "static/media/ShowTeams.png": "/ZainAmirZA/ZainAmirZA.github.io/static/media/ShowTeams.e0be368d9d4ceb2b9bf6.png",
-    "static/media/grass.jpg": "/ZainAmirZA/ZainAmirZA.github.io/static/media/grass.19126a6ce844dc298210.jpg",
-    "static/media/ZainAmirResume.pdf": "/ZainAmirZA/ZainAmirZA.github.io/static/media/ZainAmirResume.126d456c5c6e48b3f587.pdf",
-    "static/media/Digipets1.png": "/ZainAmirZA/ZainAmirZA.github.io/static/media/Digipets1.9d216c7996cb46be354b.png",
-    "static/media/tri.svg": "/ZainAmirZA/ZainAmirZA.github.io/static/media/tri.6f2eff5bfefb4a93ef84.svg",
-    "index.html": "/ZainAmirZA/ZainAmirZA.github.io/index.html",
-    "main.37998e4c.css.map": "/ZainAmirZA/ZainAmirZA.github.io/static/css/main.37998e4c.css.map",
-    "main.284046ca.js.map": "/ZainAmirZA/ZainAmirZA.github.io/static/js/main.284046ca.js.map"
+    "main.css": "/static/css/main.6e995cd5.css",
+    "main.js": "/static/js/main.6e57097b.js",
+    "static/media/soup.gif": "/static/media/soup.52ee2867ea3066083a01.gif",
+    "static/media/tcg.png": "/static/media/tcg.dc12b2cb177a6e20a882.png",
+    "static/media/ShowTeams.png": "/static/media/ShowTeams.e0be368d9d4ceb2b9bf6.png",
+    "static/media/grass.jpg": "/static/media/grass.19126a6ce844dc298210.jpg",
+    "static/media/ZainAmirResume.pdf": "/static/media/ZainAmirResume.126d456c5c6e48b3f587.pdf",
+    "static/media/Digipets1.png": "/static/media/Digipets1.9d216c7996cb46be354b.png",
+    "static/media/tri.svg": "/static/media/tri.6f2eff5bfefb4a93ef84.svg",
+    "index.html": "/index.html",
+    "main.6e995cd5.css.map": "/static/css/main.6e995cd5.css.map",
+    "main.6e57097b.js.map": "/static/js/main.6e57097b.js.map"
   },
   "entrypoints": [
-    "static/css/main.37998e4c.css",
-    "static/js/main.284046ca.js"
+    "static/css/main.6e995cd5.css",
+    "static/js/main.6e57097b.js"
   ]
 }
